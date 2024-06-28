@@ -1,7 +1,7 @@
 # a-x.anibnd-file-renamer-to-xml
 
 ### Overview
-This program renames and updates the "_witchy-bnd4.xml", eliminating the need to manually edit your XML repacking file.
+This program renames and updates the "_witchy-bnd4.xml", eliminating the need to manually edit your XML and HKX file.
 
 ### Supported Files
 The program should work for the following files:
